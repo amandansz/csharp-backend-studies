@@ -1,4 +1,1 @@
-﻿Console.WriteLine("Hello, World!");
-
-//Fundamentos.Executar()
-Variaveis.Executar();
+﻿MultiplicationTable.Multiply();
